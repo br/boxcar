@@ -14,7 +14,7 @@ function remote_install {
   sudo -E aptitude update
   $apt_install htop libfuse-dev unzip
 
-  git clone git@github.com:destructuring/home 
+  git clone git@github.com:br/home
   mv home/.git .
   rm -rf home
   git reset --hard

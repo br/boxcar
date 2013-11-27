@@ -12,7 +12,7 @@ function remote_install {
   env | grep -i git
   ssh-agent
   ssh-add -list
-  git clone https://github.com/destructuring/junas
+  git clone https://github.com/br/junas
   curl http://www.google.com > /dev/null
   false
 }

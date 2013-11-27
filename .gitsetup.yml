@@ -1,5 +1,5 @@
 ---
 remotes:
-  primary: git@github.com:destructuring/boxcar
-  secondary: git@bitbucket.org:destructuring/boxcar
-  sh: https://github.com/destructuring/jason
+  primary: git@github.com:br/boxcar
+  secondary: git@bitbucket.org:br/boxcar
+  sh: https://github.com/br/jason
