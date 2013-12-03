@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 #/ NAME
 #/     seed-rvm.sh - copies rvm ruby binaries and runs install-rvm.sh
